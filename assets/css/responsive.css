@@ -1,0 +1,919 @@
+/* Big screen :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+}
+
+
+/* Normal screen :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .menu-area nav ul li a {
+        font-size: 12px;
+    }
+    
+    .menu-area {
+        margin-left: -15px;
+        margin-right: -40px;
+    }
+    .explore_blk h1 {
+        font-size: 36px;
+    }
+    
+    .explore_blk i {scale: 1.05;}
+    
+    .explore_blk.left {
+        gap: 0;
+    }
+    
+    .flower-blk {
+        max-width: 278px;
+    }
+    .order_content > img {
+        max-width: 320px;
+    }
+    .print-opt ul li button span{
+    font-size: 26px;
+}
+.SchoolMerch_text h1 {
+    font-size: 85px;
+}
+
+.SchoolMerch_wrp.i-2 .SchoolMerch_text {
+    max-width: 450px;
+    margin: auto;
+    text-align: center;
+}
+
+.SchoolMerch_wrp.i-2 .SchoolMerch_text.Count-text {
+    max-width: 500px;
+    margin-left: -44px;
+}
+
+.SchoolMerch_wrp.i-2 .SchoolMerch_text p br {
+    display: none;
+}
+
+.input_wrp .input_blk {flex-basis: 30%;}
+
+.input_wrp {
+    gap: 23px;
+}
+
+.input_blk input, .input_blk textarea {
+    width: 100%;
+}
+
+.SchoolMerch_text.ab-text h1 {
+    font-size: 60px;
+}
+
+.supplier_wrp {
+    font-size: 23px;
+}
+
+.smteam_text p {
+    font-size: 20px;
+}
+
+.SchoolMerch_text.qst {
+    max-width: 349px;
+    margin-right: -59px;
+}
+
+.SchoolMerch_text.qst p {
+    font-size: 20px;
+}
+
+.store_content h3 {
+    font-size: 24px;
+}
+
+.store_content p {
+    font-size: 20px;
+}
+
+.Choose_wrp p {
+    font-size: 24px;
+}
+
+.v2 .Create__design {
+    margin-left: 60px;
+}
+
+.v2 .Create__design p {
+    font-size: 18px;
+}
+
+.Create__design h1 {
+    font-size: 50px;
+}
+
+.SchoolMerch_wrp.i-2 .SchoolMerch_text.Count-text h3 {
+    font-size: 30px;
+}
+
+.SchoolMerch_text p {
+    font-size: 20px;
+}
+.SchoolMerch_text.faq_text h2 {
+    font-size: 55px;
+}
+
+}
+
+ 
+/* Tablet screen :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .store-img {
+        margin: auto;
+    }
+    .explore_blk {
+        max-width: 620px;
+        margin-inline: auto;
+    }
+    
+    .explore_new h3 {
+        font-size: var(--f24);
+    }
+    
+    .explore_new a {
+        font-size: var(--f24);
+    }
+    
+    .Create__design {
+        margin: auto;
+        text-align: center;
+        padding-top: 15px;
+    }
+    
+    .flower-blk {display: none;}
+
+    
+    .team-wrp {
+        flex-direction: column;
+    }
+    
+    img.wo-sup {
+        max-width: 220px;
+    }
+    
+    .store_content {
+        padding: 0;
+        margin: 20px 0 50px;
+    }
+    .footer-nav {
+        gap: 30px;
+    }
+    .newYear_text.right {
+        max-width: 285px;
+        padding-right: 30px;
+    }
+    
+    .newYear_text span {
+        font-size: 36px;
+    }
+    
+    .newYear_text {
+        padding-left: 30px;
+    }
+
+    .hoodis_btns{
+    flex-wrap: nowrap;
+}
+
+.sch_color_wrp {
+    flex-wrap: wrap;
+}
+
+.all_sch_color {
+    margin-top: 40px;
+}
+
+.print-opt ul li button span {
+    font-size: 20px;
+}
+
+.sec_title h2 {
+    font-size: 28px;
+}
+
+.hoodi-info ul li p {
+    font-size: 22px;
+}
+
+.SchoolMerch_text h1 {
+    font-size: 66px;
+}
+
+.SchoolMerch_wrp.i-2 .SchoolMerch_text {
+    max-width: 330px;
+    margin: auto;
+    text-align: center;
+}
+
+.SchoolMerch_wrp.i-2 .SchoolMerch_text.Count-text {
+    max-width: 700px;
+    margin-left: 5px;
+}
+
+.Create__design_wrp > img {
+    width: 100%;
+}
+
+.SchoolMerch_wrp.i-2 .SchoolMerch_text p br {
+    display: none;
+}
+
+.input_wrp .input_blk {flex-basis: 32%;}
+
+.input_wrp {
+    gap: 23px 0;
+}
+
+.input_blk input, .input_blk textarea {
+    width: 100%;
+}
+
+.trust-blk {
+    margin: 30px 0;
+}
+.SchoolMerch_text p {
+    max-width: 310px;
+}
+
+.SchoolMerch_text p br {
+    display: none;
+}
+
+
+
+
+
+.SchoolMerch_text.ab-text h1 {
+    font-size: 52px;
+}
+
+.supplier_wrp {
+    font-size: 23px;
+}
+
+.smteam_text p {
+    font-size: 20px;
+    margin-bottom: -20px;
+    margin-top: 20px;
+}
+
+.SchoolMerch_text.qst {
+    max-width: 349px;
+    margin-right: -59px;
+}
+
+.SchoolMerch_text.qst p {
+    font-size: 20px;
+}
+
+.store_content h3 {
+    font-size: 24px;
+}
+
+.store_content p {
+    font-size: 20px;
+}
+
+.Choose_wrp p {
+    font-size: 24px;
+}
+.SchoolMerch_wrp.i-1 {background-position: top;}
+
+.help_content h1 {
+    font-size: 30px;
+}
+
+.v2 .Create__design {
+    margin-left: unset;
+    text-align: center;
+    max-width: 649px;
+    margin: auto;
+}
+
+.v2 .Create__design h1 {
+    font-size: 39px;
+}
+
+.v2 .Create__design p {
+    font-size: 18px;
+}
+
+.Create__design h1 {
+    font-size: 50px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.SchoolMerch_wrp.i-2 .SchoolMerch_text.Count-text h3 {
+    font-size: 16px;
+}
+
+.SchoolMerch_text p {
+    font-size: 15px;
+}
+
+.SchoolMerch_text.faq_text h2 {
+    font-size: 55px;
+    margin-left: 20px;
+}
+
+.accordion-button{
+    font-size: 20px;
+}
+.accordion-body p{
+    font-size: 16px;
+}
+
+}
+
+ 
+/* small screen :320px. */
+@media (max-width: 767px) {
+    .store-img {
+        margin: auto;
+    }
+    .explore_blk {
+        margin-inline: auto;
+        height: 174px;
+    }
+
+.explore_blk.left {
+    gap: 0;
+}
+    
+    .explore_new h3 {
+        font-size: var(--f24);
+    }
+
+.explore_new h3 {
+    font-size: 14px;
+    width: calc(100% - 20px);
+    margin-left: 12px;
+}
+    
+    .explore_new a {
+        font-size: var(--f18);
+    }
+    
+    .Create__design {
+        margin: auto;
+        padding-top: 15px;
+    }
+
+.easyv .Create__design {
+    max-width: 190px;
+    margin: unset;
+    margin-left: 28px;
+    margin-top: 20px;
+}
+
+.easyv .Create__design a {
+    font-size: 14px;
+    padding: 5px 11px;
+    border-radius: 30px;
+    width: max-content;
+}
+    
+    .flower-blk {
+    padding-left: 15px;
+}
+
+    
+    .team-wrp {
+        flex-direction: column;
+    }
+
+.team_blk {
+}
+
+.team_blk.left {
+    margin-bottom: 0px;
+}
+    
+    img.wo-sup {
+        max-width: 220px;
+    }
+    
+    .store_content {
+        padding: 0;
+        margin: 20px 0 21px;
+    }
+    .footer-nav {
+        gap: 30px;
+        margin-bottom: 30px;
+    }
+    .newYear_text.right {
+        max-width: 285px;
+        padding-right: 30px;
+    }
+    
+    .newYear_text span {
+        font-size: 22px;
+    }
+    
+    .newYear_text {
+        padding-left: 30px;
+    }
+    .explore_blk h1 {
+        font-size: 28px;
+    }
+    
+    .explore_blk i {
+        scale: 1;
+    }
+    
+    .explore_blk i img {
+        max-width: 210px;
+        height: auto;
+    }
+    
+    .Create__design_wrp > img {
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+        object-position: left;
+        left: 0;
+    }
+
+.easyv.Create__design_wrp > img {
+    object-fit: inherit;
+}
+
+.Create__design_wrp {
+    min-height: 300px;
+}
+
+.Create__design_wrp.easyv p {
+    font-size: 13px;
+    margin-bottom: 10px;
+}
+
+.Create__design_wrp.easyv h1 {
+    font-size: 20px;
+}
+
+.Create__design_wrp.v2 {
+    margin-bottom: 0;
+}
+
+.Create__design_wrp.v2 > img {
+    height: 440px;
+    object-fit: inherit;
+}
+    
+    .Create__design h1 {
+        font-size: 30px;
+    }
+    
+    .Create__design a {
+        font-size: 16px;
+    }
+    
+    .Product-area .sec_title h2 {
+        font-size: 22px;
+    }
+    
+    img.phon {
+        top: 50%;
+        transform: translate(-50%, -50%);
+    }
+    
+    .team_blk h3 {
+        font-size: 20px;
+    }
+    
+    .team_blk p {
+        font-size: 15px;
+        margin: 10px 0;
+    }
+    
+    .team_blk a {
+        padding: 5px 10px;
+        font-size: 14px;
+    }
+    
+    .order_content h3 {
+        font-size: 22px;
+        margin-left: 0;
+    }
+    
+    .order_content ul {
+        display: none;
+    }
+    
+    .order_content {
+        height: 436px;
+        justify-content: start;
+        padding-top: 90px;
+    }
+    
+    .store_content h3 {
+        font-size: 17px;
+    }
+    
+    .store_content p {
+        font-size: 13px;
+    }
+    
+    .store_content a {
+        font-size: 13px;
+    }
+    
+    .trust-blk a {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 8px;
+    }
+
+svg.oneStar {
+    width: 110px;
+}
+
+svg.star {
+    width: 130px;
+}
+    
+    .footer-nav ul li a {
+        font-size: 16px;
+    }
+    
+    .contact-info h3 {
+        font-size: 22px;
+    }
+    
+    .contact-info a {
+        font-size: 16px;
+    }
+    
+    .footer-area {
+        padding-bottom: 18px;
+    }
+    .Product__blk p{
+    font-size: 28px;
+    right: 96%;
+}
+.hodi-slider a {
+    width: auto;
+}
+
+.owl-item.active.center a img:nth-child(2) {
+    margin-top: 65px;
+}
+
+.hodi-slider {
+    /* max-width: 280px; */
+    /* margin: 90px auto; */
+    min-height: 455px;
+}
+.nav_style .owl-nav i {
+    font-size: 30px;
+}
+
+
+
+
+.hoodis_btns{
+    flex-wrap: nowrap;
+    gap: 0;
+}
+
+.sch_color_wrp {
+    flex-wrap: wrap;
+    flex-direction: column;
+    gap: 40px 0;
+}
+
+.sch_color_wrp .sch__item {
+    position: relative;
+}
+
+.sch__item_img {
+    width: 300px;
+    margin: auto;
+    height: 402px;
+}
+
+.sch__item__back {
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.sch__item_thumb {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+
+.sch__item_img img {
+    height: auto;
+}
+
+.all_sch_color {
+}
+
+.print-opt ul li button span {
+    font-size: 16px;
+    line-height: 1;
+}
+
+.sec_title h2 {
+    font-size: 22px;
+    margin-bottom: 0;
+}
+
+.hoodi-info ul li p {
+    font-size: 18px;
+}
+.hoodis_btns button:after,.print-opt ul li button:after{
+    background-size: 62px;
+}
+.hoodis_btns button{
+    border-width: 4px;
+    padding: 10px;
+}
+.color_code{
+    width: 40px;
+}
+.Design-tabs ul {
+    flex-wrap: nowrap;
+    gap: 10px;
+}
+
+.Design-tabs ul li button {
+    padding: 10px 20px;
+    line-height: 1;
+    font-size: 14px;
+    width: unset;
+    margin: auto;
+    border-radius: 8px !important;
+}
+
+.Design-tabs {
+    margin-top: 30px;
+}
+
+.input_blk input, .input_blk textarea {
+    width: 100%;
+}
+
+.input_wrp {
+    flex-direction: column;
+    gap: 20px;
+}
+
+.hoodi-info {
+    flex-direction: column;
+    gap: 10px;
+}
+
+.hoodi-info ul li h3 {
+    margin-bottom: 12px;
+    font-size: 22px;
+}
+
+.form_wrp {
+    padding: 24px;
+}
+
+.Otherwise h1 {
+    font-size: 30px;
+}
+.swiper-slide.swiper-slide-active span {
+    font-size: 16px;
+    line-height: 36px;
+}
+
+.swiper-slide.swiper-slide-prev span, .swiper-slide.swiper-slide-next span {
+    font-size: 16px;
+    line-height: 45px;
+}
+.Design-slider{
+    padding: 50px 0;
+}
+.print-opt {
+    margin-top: 39px;
+}
+
+.hoodis-area {
+    margin-top: -30px;
+}
+
+.SchoolMerch_text h1 {
+    font-size: 30px;
+}
+
+.SchoolMerch_wrp.i-2 .SchoolMerch_text {
+    max-width: 172px;
+    margin: auto;
+    text-align: center;
+    margin-left: -24px;
+}
+
+.SchoolMerch_wrp.i-2 .SchoolMerch_text.Count-text {
+    margin: unset;
+    max-width: 100%;
+}
+
+.SchoolMerch_wrp.i-2 .SchoolMerch_text.Count-text p {
+    font-size: 9px;
+}
+
+.SchoolMerch_wrp.i-2 .SchoolMerch_text p br {
+    display: none;
+}
+
+.input_wrp .input_blk {flex-basis: 32%;}
+
+.input_wrp {
+    gap: 23px 0;
+}
+
+.input_blk input, .input_blk textarea {
+    width: 100%;
+}
+
+.trust-blk {
+    margin: 30px 0;
+}
+.SchoolMerch_text p {
+    max-width: 226px;
+    font-size: 14px;
+    margin-bottom: 0;
+}
+
+.SchoolMerch_text p br {
+    display: none;
+}
+
+.help_content h1 {
+    font-size: 18px;
+}
+.SchoolMerch_text h2 {
+    font-size: 24px;
+}
+
+.SchoolMerch_text.conact_text h2 {
+    font-size: 24px;
+}
+
+.SchoolMerch_wrp {
+    margin-bottom: 20px;
+    padding: 30px 19px;
+}
+
+.SchoolMerch_text {
+    margin-left: 10px;
+}
+
+.SchoolMerch_text.conact_text {
+    margin: unset;
+}
+
+.SchoolMerch_wrp {
+    border-width: 6px !important;
+}
+
+.SchoolMerch_wrp.i-1 {
+    background-position: center;
+}
+
+.Help-area {
+    padding: 50px 0;
+}
+
+
+
+.SchoolMerch_text.ab-text h1 {
+    font-size: 24px;
+}
+
+.supplier_wrp {
+    font-size: 16px;
+    border-radius: 20px;
+    margin-top: 100px;
+}
+
+.smteam_text p {
+    font-size: 16px;
+    margin-bottom: -20px;
+    margin-top: 20px;
+}
+
+.SchoolMerch_text.qst {
+    max-width: 349px;
+    margin-right: -59px;
+    margin: auto;
+    padding: 40px 0;
+}
+
+.SchoolMerch_text.qst p {
+    font-size: 16px;
+    max-width: 100%;
+}
+
+.store_content h3 {
+    font-size: 18px;
+}
+
+.store_content p {
+    font-size: 16px;
+}
+
+.Choose_wrp p {
+    font-size: 16px;
+}
+.smteam_wrp img {
+    margin: auto;
+}
+
+.smteam_wrp:before {
+    height: 70%;
+}
+
+.Choose_wrp {
+    padding: 30px 20px 15px;
+}
+.header-area {
+    background: #fff;
+}
+
+
+
+.v2 .Create__design {
+    margin-left: unset;
+    max-width: 649px;
+    margin: auto;
+    text-align: left;
+    padding: 55px 20px;
+    margin-bottom: 0;
+}
+
+.v2 .Create__design h1 {
+    font-size: 28px;
+    width: 100%;
+}
+
+.v2 .Create__design p {
+    font-size: 14px;
+}
+
+.Create__design h1 {
+    font-size: 50px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.SchoolMerch_wrp.i-2 .SchoolMerch_text.Count-text h3 {
+    font-size: 13px;
+}
+
+.SchoolMerch_text p {
+    font-size: 14px;
+}
+
+
+
+.SchoolMerch_text.faq_text h2 {
+    font-size: 24px;
+    margin-left: 10px;
+    line-height: 1;
+}
+
+.accordion-button{
+    font-size: 14px;
+    padding: 17px;
+}
+
+.accordion-button::after {
+    right: 0;
+    width: 20px;
+    height: 20px;
+    background-size: 20px;
+}
+.accordion-body p{
+    font-size: 14px;
+    padding: 0;
+}
+.accordion-item{
+    margin-bottom: 20px;
+}
+
+
+
+
+ 
+}
+ 
+/* Large Mobile screen :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+ 
+}
